@@ -34,3 +34,7 @@ The most common interview question these labs answer:
 AWS IAM · Amazon EC2 · Amazon VPC · Security Groups · Network ACLs · Route Tables · Apache (`httpd`) on Amazon Linux 2023
 
 > Completed as part of coursework; write-ups and analysis are my own. Screenshots are redacted to remove the AWS account ID, IP addresses and sign-in URLs.
+
+---
+
+More of my projects and write-ups: **[asheriff15.github.io](https://asheriff15.github.io)**
